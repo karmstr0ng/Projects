@@ -38,10 +38,3 @@ int main() {
 }
 
 //EOF
-
-//Adding more comments
-//One more line if comments
-
-//And another
-//
-//Here's some more
